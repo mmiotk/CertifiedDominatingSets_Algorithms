@@ -18,7 +18,7 @@ To run `linear_trees.py`:
 2. Navigate to the directory containing the file.
 3. Execute the script with SageMath:
    ```bash
-   sage linear_trees.py ```
+   sage linear_trees.py
    
 ###   Integer Linear Programming for Domination Problem
 To run `certified_ILP.py`:
@@ -26,7 +26,9 @@ To run `certified_ILP.py`:
 1. Open a terminal.
 2. Navigate to the directory containing the file.
 3. Execute the script with SageMath:
-``` bash sage Certified_ILP.py ```
+    ```bash
+   sage Certified_ILP.py
+    
 ### Demonstration
 Both programs include a commented section at the end of the file demonstrating their usage with an example. To run these examples:
 
